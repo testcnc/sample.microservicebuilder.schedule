@@ -1,0 +1,13 @@
+target/**
+.kube
+.vscode
+.project
+.settings
+.classpath
+.factorypath
+/.apt_generated/
+/target/
+/build/
+/bin/
+/.settings/
+Dockerfile
